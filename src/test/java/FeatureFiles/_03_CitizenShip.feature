@@ -1,5 +1,5 @@
 Feature: CitizenShip Functionality
-
+  @RegressionTest
   Scenario: Create a citizenShip
 
     Given Navigate to Campus

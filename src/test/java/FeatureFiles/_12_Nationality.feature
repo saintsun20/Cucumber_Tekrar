@@ -29,7 +29,7 @@ And User delete the element from dialog
 Then Success message should be displayed
     Examples:
       | name |
-      | azN1K111 |
-      | azN1K212 |
-      | azN1K313 |
-      | azN1K324 |
+      | azN1K1112 |
+      | azN1K2123 |
+      | azN1K3134 |
+      | azN1K3245 |

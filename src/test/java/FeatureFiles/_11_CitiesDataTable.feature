@@ -6,7 +6,7 @@
       Given Navigate to Campus
       When Enter username and password and click login button
       Then User should be login successfully
-
+    @SmokeTest
     Scenario: Create and Delete Cities
 
       And Click on the Element in LeftNav
