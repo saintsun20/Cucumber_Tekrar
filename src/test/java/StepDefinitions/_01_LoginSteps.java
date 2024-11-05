@@ -37,4 +37,10 @@ public class _01_LoginSteps {
 
         dc.verifyContainsText(dc.headText,"Internship");
     }
+
+    @Then("User should  be login successfully")
+    public void userShouldBeLoginSuccessfully() {
+
+        dc.verifyContainsText(dc.headText,"Internship");
+    }
 }
