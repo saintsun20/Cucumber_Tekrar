@@ -17,7 +17,7 @@ public class _02_CountrySteps {
 
         ln.myClick(ln.setup);
         ln.myClick(ln.parameters);
-        ln.myClick(ln.Countries);
+        ln.myClick(ln.countries);
     }
 
     @When("Create a country")
